@@ -1,0 +1,13 @@
+img.hero-picture {
+  max-height: 410px;
+  object-fit: cover;
+  width: 100%;
+  object-position: top;
+}
+
+.card {
+  height: 100%;
+}
+.hero-wrapper {
+  margin-bottom: 16px;
+}
